@@ -1,6 +1,5 @@
 {
-    "video": [
-      {
+{
         "title" : "Video of Puppies",
         "src"   : "https://youtu.be/mUX5xRIPoJc",
         "type"  : "video/youtube"
@@ -10,5 +9,4 @@
         "src"   : "https://youtu.be/mUX5xRIPoJc",
         "type"  : "video/youtube"
       }
-    ]
 }
