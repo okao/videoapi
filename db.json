@@ -3,12 +3,12 @@
       {
         "title" : "1 - Creare un template con Bulma - Navbar e Hero Image",
         "src"   : "https://youtu.be/mUX5xRIPoJc",
-        "type"  : "video/youtube"
+        "type"  : "video/youtube",
       },
       {
         "title" : "Bulma CSS Framework Crash Course",
         "src"   : "https://youtu.be/IiPQYQT2-wg",
-        "type"  : "video/youtube"
+        "type"  : "video/youtube",
       }
   ],
   "profile": {
