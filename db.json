@@ -1,13 +1,15 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 1,
-      "title": "hello"
-    }
+      {
+        "title" : "Video of Puppies",
+        "src"   : "https://youtu.be/mUX5xRIPoJc",
+        "type"  : "video/youtube"
+      },
+      {
+        "title" : "Video of Puppies",
+        "src"   : "https://youtu.be/mUX5xRIPoJc",
+        "type"  : "video/youtube"
+      }
   ],
   "profile": {
     "name": "typicode"
